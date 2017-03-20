@@ -6,6 +6,6 @@ Examine a universe with only two hydrogen atoms in it. If the Atoms start out 1 
 Was the force that brought them together gravity? Or was it electrostatic attraction between the individual elements of the model?
 Now imagine a universe of infinite size, with a mass per unit volume of charge over a sufficiently large enough volume that the mass per unit volume is invariant and isotropic. Does the difference in the electron and proton sphere of infuence matter on the macro scale?
 Can someone do the math and convince me I'm wrong? 
-We need a computer model that accurately describes the forces between to hydrogen atoms in a computer generated universe that has nothing else in it. Does tyhe model coalesce? 
+We need a computer model that accurately describes the forces between to hydrogen atoms in a computer generated universe that has nothing else in it. Does the model coalesce? 
 Answers on a postcard please? 
 Peter T Edwards: 03/20/2017 
